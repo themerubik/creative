@@ -1,0 +1,369 @@
+/*-- for devices up to 991px wide --*/
+
+@media(max-width:991px) {
+	.navbar-collapse ul {
+		margin-top: 15px;
+	}
+
+	.custom_nav .nav li {
+		margin: 0 2px;
+	}
+
+	.custom_nav .nav li a {
+		font-size: 12px;
+		padding: 10px 8px;
+	}
+
+	.navbar-brand {
+		margin-top: 8px;
+	}
+
+	#aboutus .about {
+		margin-bottom: 35px;
+	}
+
+	.services .service-item {
+		padding: 20px 0px;
+	}
+
+	.services .service-item h6 {
+		font-size: 22px;
+	}
+
+	.services .service-item p {
+		font-size: 16px;
+	}
+
+	#choose img {
+		width: 100%;
+	}
+
+	#choose .skills, .support, .process, .feature {
+		padding-left: 16px;
+		margin-top: 50px;
+	}
+
+	#features .text-box p {
+		font-size: 16px;
+	}
+
+	#accordion .panel-body {
+		line-height: 24px;
+		font-size: 16px;
+	}
+
+	.tab .nav-tabs li a {
+		font-size: 18px;
+	}
+
+	.tab .nav-tabs li {
+		width: 100%;
+		text-align: center;
+		margin: 0 0 15px 0;
+	}
+
+	.tab .nav-tabs li:after {
+		width: 0;
+		height: 100%;
+		top: auto;
+		bottom: -60%;
+		right: 50%;
+	}
+
+	.tab .nav-tabs {
+		margin-left: 0px;
+	}
+
+	.simplefilter li {
+		margin: 0px 5px;
+		padding: 8px 15px;
+		font-size: 15px;
+	}
+
+	#portfolio ul {
+		margin: 60px 0px 45px 75px;
+	}
+
+	#team .col-sm-6 {
+		margin: 50px 0px;
+	}
+
+	.counting-icon span {
+		margin-right: 5px;
+	}
+
+	.counting-icon span::before {
+		font-size: 35px;
+	}
+
+	.counting-content {
+		margin-left: 65px;
+		margin-top: -55px;
+	}
+
+	.counting-content span {
+		font-size: 25px;
+	}
+
+	.counting-content h4 {
+		font-size: 15px;
+	}
+
+	#packages .price {
+		padding: 20px 25px;
+	}
+
+	#packages a {
+		font-size: 15px;
+		padding: 12px 26px;
+	}
+
+	.price h4 {
+		font-size: 15px;
+	}
+
+	.title li {
+		padding: 2px 0px;
+		font-size: 15px;
+	}
+
+	.testimonial .testimonial-content {
+		margin-right: 0%;
+	}
+
+	#blog .col-md-6 {
+		margin: 50px 0px;
+	}
+
+	.blog-post .post-img {
+		width: 100%;
+	}
+
+	.blog-post .post-review {
+		width: 100%;
+	}
+
+	.blog-post .post-bar:before {
+		left: 0;
+	}
+
+	.blog-post .post-bar:after {
+		left: 25px;
+	}
+
+	#updates input {
+		width: 109%;
+	}
+
+	.contact .info-title h4 {
+		font-size: 20px;
+	}
+
+	.contact .info-title {
+		padding: 15px;
+	}
+
+	.contact .info-title p {
+		font-size: 15px;
+	}
+
+	#contact .col-md-12 {
+		padding: 80px 0px;
+	}
+
+	footer ul {
+		margin-left: 228px;
+	}
+
+	footer p {
+		float: none;
+		text-align: center;
+	}
+}
+
+/*-- for devices up to 767px wide --*/
+
+@media(max-width:767px) {
+	.linkhover {
+		padding: 8px 20px;
+	}
+
+	.section-padding {
+		padding: 10px 0 25px;
+	}
+
+	#mynavbar {
+		background: #000;
+	}
+
+	.navbar-brand > img {
+		margin-top: -6px;
+	}
+
+	.navbar-nav {
+		margin: 4.5px 0px;
+	}
+
+	.custom_nav .nav li a {
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.custom_nav .nav li a::after {
+		display: none;
+	}
+
+	.navbar-toggle .icon-bar {
+		display: block;
+		width: 24px;
+		height: 4px;
+		border-radius: 1px;
+		background-color: #ffffff;
+	}
+
+	.navbar-toggle {
+		position: relative;
+		float: right;
+		padding: 9px 10px;
+		margin-top: 3px;
+		margin-right: 10px;
+		margin-bottom: 4px;
+		background-color: transparent;
+	}
+
+	.banner-content h4 {
+		font-size: 25px;
+		padding-top: 175px;
+	}
+
+	.banner-content h3 {
+		font-size: 18px;
+	}
+
+	.banner-content p {
+		font-size: 15px;
+		text-align: justify;
+	}
+
+	.banner-content .button a {
+		margin: 0 3px;
+	}
+
+	#banner .linkhover {
+		display: inline-block;
+		padding: 5px 12px;
+	}
+
+	.effect {
+		padding: 8px 8px;
+		font-size: 15px;
+	}
+
+	#aboutus .about {
+		margin-bottom: 100px;
+	}
+
+	#best h3 {
+		font-size: 26px;
+	}
+
+	#best p {
+		font-size: 16px;
+		text-align: justify;
+		padding: 0px 25px;
+	}
+
+	.tab .nav-tabs {
+		margin-left: 0px;
+	}
+
+	.tab .nav-tabs li {
+		width: 100%;
+		text-align: center;
+		margin: 0 0 10px 0;
+	}
+
+	.tab .nav-tabs li:after {
+		width: 0;
+		height: 100%;
+		top: auto;
+		bottom: -60%;
+		right: 50%;
+	}
+
+	#choose .skills, .support, .process, .feature {
+		padding-left: 16px;
+		margin-top: 50px;
+	}
+
+	#portfolio ul {
+		margin: 60px 0px 45px 0px;
+	}
+
+	#portfolio .pro-icon {
+		margin: 0px 0px 0px 10px;
+	}
+
+	.simplefilter li {
+		font-size: 15px;
+		margin: 5px;
+		padding: 5px 10px;
+	}
+
+	.counting {
+		padding: 30px 0px;
+	}
+
+	.testimonial .testimonial-content {
+		float: none;
+		width: 100%;
+		margin: 0 0 20px 0;
+	}
+
+	.testimonial .comment {
+		width: 100%;
+	}
+
+	#faq .faq {
+		padding-left: 17px;
+		margin-top: 35px;
+	}
+
+	#updates button {
+		font-size: 14px;
+		padding: 0 8px;
+	}
+
+	#updates input {
+		width: 100%;
+		padding: 0 187px 0 0px;
+	}
+
+	#updates p {
+		font-size: 15px;
+		text-align: justify;
+	}
+
+	#contact .col-md-3 {
+		margin: 15px 0px;
+	}
+
+	.social-network ul li {
+		margin: auto 5px;
+	}
+
+	.social-network ul li a {
+		font-size: 16px;
+		height: 30px;
+		line-height: 30px;
+		width: 30px;
+	}
+
+	footer ul {
+		margin-left: 45px;
+	}
+
+	footer p {
+		float: left;
+	}
+}
